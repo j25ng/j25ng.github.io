@@ -6,6 +6,6 @@ while true
 do
 	if [ -e "$FILE" ]; then
 		echo "SUDDEN!!!"
-	fi	
-	sleep 3
+		sleep 3
+	fi
 done
