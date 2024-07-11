@@ -7,3 +7,4 @@
 - 1.6.0 : PORSCHE
 - 1.7.0 : McLaren
 - 1.8.0 : BENTLEY
+- 3.0.0 : SUDDEN SHELL SCRIPT
