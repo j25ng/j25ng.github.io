@@ -4,12 +4,13 @@ FILE=~/tmp/_SUDDEN
 
 while true
 do
+	DATE=$(date +"%Y%m%d %H:%M:%S")
 	if [ -e "$FILE" ]; then
-		echo "SUDDEN!!!"
+		echo $DATE",SUDDEN!!!"
 	else
 		clear
 		figlet KIA
-		echo $(date +"%Y%m%d %H:%M:%S")
+		echo $DATE
 	fi
 	sleep 3
 done
