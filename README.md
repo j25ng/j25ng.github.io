@@ -8,3 +8,4 @@
 - 1.7.0 : McLaren
 - 1.8.0 : BENTLEY
 - 3.0.0 : SUDDEN SHELL SCRIPT
+- 3.0.1 : FIX UPDATE DATE
