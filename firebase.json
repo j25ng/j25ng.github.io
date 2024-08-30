@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "de32-j25ng-firebase",
+    "site": "aj25ng",
     "public": "docs",
     "ignore": [
       "firebase.json",
